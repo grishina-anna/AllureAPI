@@ -1,0 +1,87 @@
+{
+  "uid" : "a898d130b0335f80",
+  "name" : "deleteUsers()",
+  "fullName" : "tests.HomeWorkTest.deleteUsers",
+  "historyId" : "fe5e4776a2a9975d5adc63200c3ad21a",
+  "time" : {
+    "start" : 1647635752469,
+    "stop" : 1647635752925,
+    "duration" : 456
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "12803efd523bfb01",
+      "name" : "Request",
+      "source" : "12803efd523bfb01.html",
+      "type" : "text/html",
+      "size" : 1692
+    }, {
+      "uid" : "c616573289945465",
+      "name" : "HTTP/1.1 204 No Content",
+      "source" : "c616573289945465.html",
+      "type" : "text/html",
+      "size" : 3318
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:tests.HomeWorkTest]/[method:deleteUsers()]"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-1Q1VQKTG"
+  }, {
+    "name" : "thread",
+    "value" : "12988@LAPTOP-1Q1VQKTG.Test worker(14)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "tests.HomeWorkTest"
+  }, {
+    "name" : "testClass",
+    "value" : "tests.HomeWorkTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "deleteUsers"
+  }, {
+    "name" : "suite",
+    "value" : "tests.HomeWorkTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a898d130b0335f80.json",
+  "parameterValues" : [ ]
+}

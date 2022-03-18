@@ -1,0 +1,94 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "tests.HomeWorkTest",
+    "children" : [ {
+      "name" : "singleUsers()",
+      "uid" : "33513d72891d4795",
+      "parentUid" : "fe3c2bedb843f62cab33dba2c706ed4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647635744569,
+        "stop" : 1647635751234,
+        "duration" : 6665
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "listUsers()",
+      "uid" : "5e20c5be6c8742be",
+      "parentUid" : "fe3c2bedb843f62cab33dba2c706ed4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647635751474,
+        "stop" : 1647635752449,
+        "duration" : 975
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deleteUsers()",
+      "uid" : "a898d130b0335f80",
+      "parentUid" : "fe3c2bedb843f62cab33dba2c706ed4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647635752469,
+        "stop" : 1647635752925,
+        "duration" : 456
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "updateUsers()",
+      "uid" : "4532010e8e0f68b4",
+      "parentUid" : "fe3c2bedb843f62cab33dba2c706ed4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647635752930,
+        "stop" : 1647635753440,
+        "duration" : 510
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "createUsers()",
+      "uid" : "2b2a0de91edff10a",
+      "parentUid" : "fe3c2bedb843f62cab33dba2c706ed4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1647635753450,
+        "stop" : 1647635753890,
+        "duration" : 440
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fe3c2bedb843f62cab33dba2c706ed4f"
+  } ]
+}

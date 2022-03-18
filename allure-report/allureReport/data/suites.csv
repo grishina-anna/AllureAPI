@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Mar 18 23:35:51 MSK 2022","Fri Mar 18 23:35:52 MSK 2022","975","","tests.HomeWorkTest","","tests.HomeWorkTest","listUsers","listUsers()",""
+"passed","Fri Mar 18 23:35:52 MSK 2022","Fri Mar 18 23:35:52 MSK 2022","456","","tests.HomeWorkTest","","tests.HomeWorkTest","deleteUsers","deleteUsers()",""
+"passed","Fri Mar 18 23:35:52 MSK 2022","Fri Mar 18 23:35:53 MSK 2022","510","","tests.HomeWorkTest","","tests.HomeWorkTest","updateUsers","updateUsers()",""
+"passed","Fri Mar 18 23:35:44 MSK 2022","Fri Mar 18 23:35:51 MSK 2022","6665","","tests.HomeWorkTest","","tests.HomeWorkTest","singleUsers","singleUsers()",""
+"passed","Fri Mar 18 23:35:53 MSK 2022","Fri Mar 18 23:35:53 MSK 2022","440","","tests.HomeWorkTest","","tests.HomeWorkTest","createUsers","createUsers()",""
